@@ -11,7 +11,7 @@ Run the development server with npm start
 
 ## Demo
 
-[](https://artisanal-handmade-products.netlify.app/)
+[https://artisanal-handmade-products.netlify.app/](https://artisanal-handmade-products.netlify.app/)
 
 ## Tech-stack used
 
